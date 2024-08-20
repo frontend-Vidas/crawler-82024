@@ -1,12 +1,14 @@
 /* base */
-@import '..base/base.css';
+/* @import '..base/base.css';
 @import '..base/layout.css';
+*/
 
 /* vendors */
 
 /* components */
+/* @import '../component/btn.css';
 @import '../component/btn.css';
-@import '../component/btn.css';
+*/ 
 
 /* CUSTOM CSS */
 
